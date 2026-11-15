@@ -6,7 +6,6 @@
 ## 👥 Equipe de Desenvolvimento
 * **Victória Maria**
 * **Gabriella**
-* **Ana Carolinne**
 
 ---
 
